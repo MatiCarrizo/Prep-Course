@@ -1,0 +1,16 @@
+Variables
+Una variable se usa para guardar un valor que puede ser utilizado en cualquier momento. Esta variable se puede definir solo para reservar 
+esa palablra clave como tambien para asignarle un valor.
+
+Strings
+Es un texto que puede estar formado por letras y numeros, el cual se define entre comilla simple o doble. 
+
+Funciones
+Las funciones se utilizan para realizar una tarea, que puede usarse repetidamente solamente llamando a la función, evitando tener que escribir 
+todas las instrucciones que forman la tarea cada ves que se quiera realizar esa tarea.
+El argumento es el dato o valor que ingresa a la función, y es utilizado para realizar la tarea.
+'Return' devuelve un valor de la tarea que realiza la función.
+
+La declaracion 'if' se utiliza para evaluar condiciones, es decir, que se ejecuta una tarea si se cumple determinada condición.
+
+Un booleano tiene dos posibles valores, true (verdadero) o false (falso). 
