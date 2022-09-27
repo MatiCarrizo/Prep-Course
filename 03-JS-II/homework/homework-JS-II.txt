@@ -1,0 +1,8 @@
+El 'for' es un bucle que se utiliza para realizar tareas repetitivas. Utiliza la palabra clave 'for' continuado con paréntesis (apertura y cierre) y 
+luego lleva llaves (dentro de las cuales se encuentra la tarea a realizar). Dentro de los paréntesis se declara primero una variable, continuada de 
+una condición (cuando se cumple esta condición se sale del 'for') y finalmente el incremento de la variable.
+
+Los operadores lógicos se utilizan para realizar comparaciones de tipos de datos booleanos.
+El operador lógico and (&&) devuelve true si ambos operandos son true, de lo contrario devuelve false.
+El operador lógico or (||) devuelve true si alguno de los dos operandos es true, si los dos operandos son false devuelve false.
+El operador lógico not (!) devuelve el valor booleano opuesto del operando.
