@@ -1,0 +1,1 @@
+Un 'array' esta formado por un conjunto de datos, los cuales pueden ser un numero, un booleano, un string, otro array o una función. 
