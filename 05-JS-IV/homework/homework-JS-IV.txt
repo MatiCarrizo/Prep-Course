@@ -1,0 +1,16 @@
+Un objeto se utliza para almacenar datos, pero en vez de estar identificado el elemento en un indice, a cada elemento lo identifica una clave.
+Los objetos se instancian entre llaves, y se utiliza la clave, seguida de :, luego el valor (que puede ser cualquier tipo de dato, un booleano, 
+un numero, una cadena, una matriz, una función o un objeto. Las claves se separan por coma, y no se pueden repetir los nombres, mientras que los
+valores si pueden repetirse.
+
+Los objetos pueden tener varias propiedades y cada clave define una propiedad.
+
+En los objetos se pueden guardar valores que son funciones, a estas funciones se las llama métodos. Para llamar al método se utiliza notación de
+puntos seguidos de paréntesis.
+
+El bucle `for…in` se utiliza cuando queremos iterar sobre cada conjunto de clave-valor de un objeto. En la sintaxis del 'for' entre paréntesis se 
+declara una variable, continuada de la plabra clave 'in' y el nombre del objeto.
+
+Se puede acceder a cada propiedad de un objeto, llamando al nombre del objeto y la clave. Esto se puede hacer de dos formas, con notacion de pundos 
+y con notacion de corchetes. Para el llamado con notacion de puntos se pone el nombre del objeto, punto y la clave. Mientras que para el llamado
+con notacion de corchetes se utiliza el nombre del objeto seguido por la clave entre corchetes (la clave a su vez debe estar entre comillas).
